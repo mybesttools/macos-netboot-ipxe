@@ -34,7 +34,7 @@ if ($_GET["manufacturer"]=="Apple Inc.") {
 }
 
 # set resolution and background
-echo "console --x 1024 --y 768 --picture {$url}ipxe.png\n";
+echo "console --x 1024 --y 768 --picture {$url}images/ipxe.png\n";
 
 # for testing with better debug info on screen, use this:
 # echo "console\n";
