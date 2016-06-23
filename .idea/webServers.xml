@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ae07252-750e-4f6f-aa65-bc88f4fd290e" name="iPXE" url="http://192.168.2.100/iPXE">
+        <fileTransfer host="192.168.2.100" port="22" rootFolder="/web/iPXE" accessType="SFTP" password="dfeedfcfdfd0dfcfdfc3dfd9dfc9dfc5dfc5dfc6df9bdf89" username="Mike">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
